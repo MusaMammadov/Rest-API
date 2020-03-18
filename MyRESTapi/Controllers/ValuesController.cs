@@ -28,8 +28,8 @@ namespace MyRESTapi.Controllers
 
             Friend friend1 = new Friend
             {
-                Name = "Teyyub",
-                Surname = "Cəfərli"
+                Name = "Musa",
+                Surname = "Mammadov"
             };
             Friend friend2 = new Friend
             {
